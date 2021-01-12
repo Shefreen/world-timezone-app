@@ -37,7 +37,6 @@
 				<password>J@bwemet786</password>
 				<workers>1</workers>
 				<workerType>Micro</workerType>
-				<businessGroup>NJC Labs\NJC Aus</businessGroup>
 				<environment>Sandbox</environment>
 				<applicationName>worldtimezone-service</applicationName>
 				<muleVersion>4.3.0</muleVersion>
