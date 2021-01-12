@@ -21,6 +21,6 @@ http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/htt
 	region : attributes.uriParams.region
 }]]]></http:uri-params>
 		</http:request>
-		<logger level="INFO" doc:name="Logger" doc:id="544f1289-9804-4087-b403-24f5aba73bed" message="after request"/>
+		<logger level="INFO" doc:name="Logger" doc:id="544f1289-9804-4087-b403-24f5aba73bed" message="after request - world time"/>
 	</flow>
 </mule>
