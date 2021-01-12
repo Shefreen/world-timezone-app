@@ -38,7 +38,7 @@
 				<workers>1</workers>
 				<workerType>Micro</workerType>
 				<environment>test</environment>
-				<applicationName>worldtimezone-service</applicationName>
+				<applicationName>worldtimezone-service-test-skm</applicationName>
 				<muleVersion>4.3.0</muleVersion>
 				</cloudHubDeployment>
 				</configuration>
