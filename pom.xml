@@ -30,6 +30,7 @@
 				<artifactId>mule-maven-plugin</artifactId>
 				<version>${mule.maven.plugin.version}</version>
 				<extensions>true</extensions>
+				
 				<configuration>
 				<cloudHubDeployment>
 				<username>shefreen_njc</username>
@@ -42,6 +43,7 @@
 				<muleVersion>4.3.0</muleVersion>
 				</cloudHubDeployment>
 				</configuration>
+				
 			</plugin>
 		</plugins>
 	</build>
