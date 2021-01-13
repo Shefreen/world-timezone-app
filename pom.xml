@@ -37,7 +37,7 @@
 				<password>J@bwemet786</password>
 				<workers>1</workers>
 				<workerType>Micro</workerType>
-				<environment>sandbox</environment>
+				<environment>Sandbox</environment>
 				<applicationName>worldtimezone-service-test-skm</applicationName>
 				<muleVersion>4.3.0</muleVersion>
 				<businessGroup>NJC Labs\NJC Aus</businessGroup>
