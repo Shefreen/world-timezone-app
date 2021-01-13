@@ -16,7 +16,7 @@ pipeline
    
    stage('Regression Testing'){
    steps{
-   bat 'CD C:\\Users\\shefr\\AppData\\Roaming\\npm\\newman run "C:\\NJC Labs\\Projects\\PostManCollection\\worldtimezone.postman_collection.json" -r htmlextra --reporter-htmlextra-export "C:\\NJC Labs\\Projects\\PostManCollection"
+   bat 'CD C:\\Users\\shefr\\AppData\\Roaming\\npm\\newman run "C:\\NJC Labs\\Projects\\PostManCollection\\worldtimezone.postman_collection.json"
    }
    }
   }
